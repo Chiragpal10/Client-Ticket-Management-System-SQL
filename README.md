@@ -47,5 +47,4 @@ The project includes four main tables:
 ---
 
 ## 📄 Author
-**Chirag Pal**  
-Email: chiragpal@zohomail.in  
+**Bhavaya Sokhal**  
