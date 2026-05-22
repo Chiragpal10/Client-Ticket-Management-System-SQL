@@ -47,4 +47,4 @@ The project includes four main tables:
 ---
 
 ## 📄 Author
-**Bhavaya Sokhal**  
+**Chirag**  
